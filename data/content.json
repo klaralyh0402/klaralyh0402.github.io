@@ -1,0 +1,167 @@
+{
+  "basic": {
+    "name": {
+      "zh": "林于涵",
+      "en": "Yuhan Lin"
+    },
+    "display_name": {
+      "zh": "林于涵",
+      "en": "Yuhan Lin"
+    },
+    "title": {
+      "zh": "林于涵｜个人主页",
+      "en": "Yuhan Lin | Personal Homepage"
+    },
+    "description": {
+      "zh": "个人主页，包含教育、获奖、证书与爱好。",
+      "en": "A personal homepage featuring education, awards, certificates, and interests."
+    },
+    "intro": {
+      "zh": "上海交通大学外国语学院德语专业学生，曾就读于厦门外国语学校。喜欢用语言连接不同文化，也在持续探索表达与成长的可能。",
+      "en": "German major student at the School of Foreign Languages, Shanghai Jiao Tong University, and an alumna of Xiamen Foreign Language School. I enjoy connecting cultures through language and continuing to explore new ways to express and grow."
+    },
+    "keywords": {
+      "zh": "语言 · 表达 · 成长",
+      "en": "Language · Expression · Growth"
+    },
+    "photo": {
+      "zh": "assets/images/profile.jpg",
+      "en": "assets/images/profile.jpg"
+    },
+    "email": {
+      "zh": "",
+      "en": ""
+    },
+    "github": {
+      "zh": "",
+      "en": ""
+    }
+  },
+  "education": [
+    {
+      "order": 1,
+      "start": "2025.09",
+      "end": "2029.06",
+      "school": {
+        "zh": "上海交通大学",
+        "en": "Shanghai Jiao Tong University"
+      },
+      "details": {
+        "zh": "外国语学院 · 德语专业",
+        "en": "School of Foreign Languages · German Major"
+      },
+      "tags": {
+        "zh": [
+          "外国语学院",
+          "德语专业"
+        ],
+        "en": [
+          "School of Foreign Languages",
+          "German Major"
+        ]
+      }
+    },
+    {
+      "order": 2,
+      "start": "2022.09",
+      "end": "2025.06",
+      "school": {
+        "zh": "厦门外国语学校",
+        "en": "Xiamen Foreign Language School"
+      },
+      "details": {
+        "zh": "在这里打下语言学习的基础，也开启了对德语与跨文化交流的探索。",
+        "en": "This is where I built the foundation of my language learning and began exploring German and cross-cultural communication."
+      },
+      "tags": {
+        "zh": [
+          "语言学习",
+          "跨文化交流"
+        ],
+        "en": [
+          "Language Learning",
+          "Cross-cultural Communication"
+        ]
+      }
+    }
+  ],
+  "awards": [
+    {
+      "order": 1,
+      "year": "2024",
+      "title": {
+        "zh": "青少年德语辩论赛",
+        "en": "Youth German Debate Competition"
+      },
+      "prize": {
+        "zh": "二等奖",
+        "en": "Second Prize"
+      },
+      "region": {
+        "zh": "华南赛区",
+        "en": "South China Region"
+      },
+      "description": {
+        "zh": "在2024年青少年德语辩论赛中，获得华南赛区二等奖。这次经历让我更加体会到语言表达、临场思考与交流的力量。",
+        "en": "I won second prize in the South China Region of the 2024 Youth German Debate Competition. This experience deepened my appreciation for expression, quick thinking, and communication."
+      }
+    }
+  ],
+  "certificates": [
+    {
+      "order": 1,
+      "name": {
+        "zh": "德国语言证书",
+        "en": "German Language Certificate"
+      },
+      "level": "C1",
+      "program": "DSD II",
+      "status": {
+        "zh": "已获得",
+        "en": "Earned"
+      },
+      "description": {
+        "zh": "获得德国语言证书DSD2级C1，证明我在德语听、说、读、写方面具备 C1 阶段的语言能力。",
+        "en": "I have earned the German Language Certificate DSD II at level C1, reflecting my German listening, speaking, reading, and writing abilities at the C1 stage."
+      }
+    }
+  ],
+  "hobbies": [
+    {
+      "order": 1,
+      "name": {
+        "zh": "唱歌",
+        "en": "Singing"
+      },
+      "icon": "music",
+      "description": {
+        "zh": "用声音感受旋律与情绪，在歌声里找到表达自己的方式。",
+        "en": "Feeling melody and emotion through my voice, and finding a way to express myself through song."
+      }
+    },
+    {
+      "order": 2,
+      "name": {
+        "zh": "游泳",
+        "en": "Swimming"
+      },
+      "icon": "swimming",
+      "description": {
+        "zh": "享受水中的节奏与专注，也享受一次次向前的耐力。",
+        "en": "Enjoying the rhythm and focus in the water, and the endurance of moving forward, stroke by stroke."
+      }
+    },
+    {
+      "order": 3,
+      "name": {
+        "zh": "健身",
+        "en": "Fitness"
+      },
+      "icon": "fitness",
+      "description": {
+        "zh": "用规律训练保持力量与状态，把坚持慢慢变成日常习惯.",
+        "en": "Building strength and energy through regular training, and turning consistency into a daily habit."
+      }
+    }
+  ]
+}
